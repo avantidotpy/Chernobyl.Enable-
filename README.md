@@ -1,3 +1,4 @@
+<b> Holistic Analysis of Corona Virus using Statastical modelling and Machine Learning
 Visualize and Predict spread of CoronaVirus
 Since the pilot out-break in Wuhan,Huebei COVID-19 has infected almost 50,000+ people in 28 countries. This project aims at visualizing changes happening on a global scale by incorporating rapid mapping of live datasets. A pilot model build upon ARIMA and Exponential Curve fitting helps to predict future outbreaks by analysing the current data pool.
 
