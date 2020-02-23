@@ -1,4 +1,4 @@
-<b> Holistic Analysis of Corona Virus using Statastical modelling and Machine Learning
+<b> Holistic Analysis of Corona Virus using Statastical modelling and Machine Learning</b>
 Visualize and Predict spread of CoronaVirus
 Since the pilot out-break in Wuhan,Huebei COVID-19 has infected almost 50,000+ people in 28 countries. This project aims at visualizing changes happening on a global scale by incorporating rapid mapping of live datasets. A pilot model build upon ARIMA and Exponential Curve fitting helps to predict future outbreaks by analysing the current data pool.
 
@@ -46,7 +46,7 @@ A step by step series of examples that tell you how to get a development env run
   <li>Refinment of the dataset</li>
   <li>Visualising new infections/deaths per day</li>
   <li>Use exponential equation: <b>n(t) = c(t-t0)^p+a0</b> Where <br> n = function of no. of days <br>p = exponential factor <br> t = time </li>
-  <li> We achieved an accuracy of </li>
+  <li> We achieved an accuracy of 95%</li>
   <li>For Queries drop a mail to: avantilaingam@gmail.com</li>
 </ol>
 
