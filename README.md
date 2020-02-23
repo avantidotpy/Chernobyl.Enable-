@@ -30,12 +30,9 @@ A step by step series of examples that tell you how to get a development env run
 
 <h3>TimeSeries Forecasting</h3>
 <p> These models are used to forecast/predict time-series data. As our data highly depends upon timestamps it's highly advisable to use this</p>
-  <li>Fetch the CSV from this GITHUB repository:https://github.com/Perishleaf/data-visualisation-scripts<br> Data can also be imported from the repository (mapping wont be live)</li>
-  <li>Create a Flask Server<br> How to set up a flash server:https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment</li>
-  <li>Select the plots you want to plot using the dataset<br>Guide: https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/</li>
-  <li>Render the elements and the visualise the changes</li>
-  <li>You can also use hello.py</li>
-</ol>
+ <ol>
+  <li>It's beautifully explained how to implement any timeseries forecasting model in this link: <br>https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/</li>
+ </ol>
 Say what the step will be
 
 Give the example
