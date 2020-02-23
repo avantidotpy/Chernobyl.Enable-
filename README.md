@@ -69,8 +69,9 @@ Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 Authors
-Billie Thompson - Initial work - PurpleBooth
-See also the list of contributors who participated in this project.
+Apurva Mhatre - Time Series Forecasting.
+Avantika Mahalingam - Curve fitting and predictions.
+Aaditya Gurav - Flask server implementation.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
