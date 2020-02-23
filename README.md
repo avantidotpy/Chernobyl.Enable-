@@ -36,27 +36,8 @@ A step by step series of examples that tell you how to get a development env run
   <li> We achieved an accuracy of 97.8% with the limited dataset.</li>
   </ol>
   <p>The model uses diffrential equations to generalise results, the better the diffrential equation the higher accuracy the model yields</p>
-Say what the step will be
 
-Give the example
-And repeat
-
-until finished
-End with an example of getting some data out of the system or using it for a little demo
-
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
-
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-Add additional notes about how to deploy this on a live system
+<h3>Predicting fatality - Curve fitting using Exponential Equations</h3>
 
 Built With
 Dropwizard - The web framework used
