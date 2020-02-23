@@ -45,6 +45,8 @@ A step by step series of examples that tell you how to get a development env run
   <li>Refinment of the dataset</li>
   <li>Visualising new infections/deaths per day</li>
   <li>Use exponential equation: <b>n(t) = c(t-t0)^p+a0</b> Where <br> n = function of no. of days <br>p = exponential factor <br> t = time </li>
+  <li> We achieved an accuracy of </li>
+  <li>For Queries drop a mail to: avantilaingam@gmail.com</li>
 </ol>
 
 Built With
