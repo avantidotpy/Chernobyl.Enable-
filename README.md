@@ -49,7 +49,7 @@ A step by step series of examples that tell you how to get a development env run
   <li>For Queries drop a mail to: avantilaingam@gmail.com</li>
 </ol>
 
-Computing risk factor
+<b>Computing risk factor</b>
 <p>To visualise which country is most vulnerable we computed risk factor using epidemiologic analysis<p>
 <p>Refer page: https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section5.html</p>
 <p>Risk factor =function([age,health facilities,population,standard of living, travel ration],country)</p>
