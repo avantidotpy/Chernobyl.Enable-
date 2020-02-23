@@ -32,7 +32,10 @@ A step by step series of examples that tell you how to get a development env run
 <p> These models are used to forecast/predict time-series data. As our data highly depends upon timestamps it's highly advisable to use this</p>
  <ol>
   <li>It's beautifully explained how to implement any timeseries forecasting model in this link: <br>https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/</li>
- </ol>
+  <li>Note: Make sure to use the dataset to generate the predictive model<br>If you need our model drop us a mail at <mailto>vivek.bhanushali16@siesgst.ac.in</mailto></li>
+  <li> We achieved an accuracy of 97.8% with the limited dataset.</li>
+  </ol>
+  <p>The model uses diffrential equations to generalise results, the better the diffrential equation the higher accuracy the model yields</p>
 Say what the step will be
 
 Give the example
