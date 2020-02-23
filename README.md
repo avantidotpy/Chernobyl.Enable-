@@ -69,8 +69,8 @@ Versioning
 We use SemVer for versioning. For the versions available, see the tags on this repository.
 
 Authors
-Apurva Mhatre - Time Series Forecasting.
-Avantika Mahalingam - Curve fitting and predictions.
+Apurva Mhatre - Time Series Forecasting.<br>
+Avantika Mahalingam - Curve fitting and predictions.<br>
 Aaditya Gurav - Flask server implementation.
 
 License
