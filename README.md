@@ -38,6 +38,14 @@ A step by step series of examples that tell you how to get a development env run
   <p>The model uses diffrential equations to generalise results, the better the diffrential equation the higher accuracy the model yields</p>
 
 <h3>Predicting fatality - Curve fitting using Exponential Equations</h3>
+<p> Fetches data in real time and processes numerical attributes to forecast potential deaths and infections</p>
+<ol>
+  <li>Import the dataset from the affomentioned github repository</li>
+  <li>Visualise the infected and death rates</li>
+  <li>Refinment of the dataset</li>
+  <li>Visualising new infections/deaths per day</li>
+  <li>Use exponential equation: <b>n(t) = c(t-t0)^p+a0</b> Where <br> n = function of no. of days <br>p = exponential factor <br> t = time </li>
+</ol>
 
 Built With
 Dropwizard - The web framework used
