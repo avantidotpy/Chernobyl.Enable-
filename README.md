@@ -49,15 +49,18 @@ A step by step series of examples that tell you how to get a development env run
   <li>For Queries drop a mail to: avantilaingam@gmail.com</li>
 </ol>
 
-Built With
-Dropwizard - The web framework used
-Maven - Dependency Management
-ROME - Used to generate RSS Feeds
-Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Computing risk factor
+<p>To visualise which country is most vulnerable we computed risk factor using epidemiologic analysis<p>
+<p>Refer page: https://www.cdc.gov/csels/dsepd/ss1978/lesson3/section5.html</p>
+<p>Risk factor =function([age,health facilities,population,standard of living, travel ration],country)</p>
 
-Versioning
-We use SemVer for versioning. For the versions available, see the tags on this repository.
+Version (1.0.0)
+Includes
+<ol>
+  <li>Visualising changes</li>
+  <li>Predictive analysis</li>
+  <li>Risk Factor association</li>
+</ol>
 
 Authors
 Apurva Mhatre - Time Series Forecasting.<br>
@@ -65,9 +68,5 @@ Avantika Mahalingam - Curve fitting and predictions.<br>
 Aaditya Gurav - Flask server implementation.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is opensource.
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
